@@ -10,10 +10,10 @@ Not : If ve Else kullanılmayacak...
 
 Sınıfta kalma durumu:
 
-![sınıfta_kalma](images/sınıfta kalma.png)
+![sınıfta_kalma](./images/sınıfta%20kalma.png)
 
 Sınıfı geçme durumu:
 
-![sınıfı_geçme](images/sınıfı geçme.png)
+![sınıfı_geçme](./images/sınıfı%20geçme.png)
 
 
