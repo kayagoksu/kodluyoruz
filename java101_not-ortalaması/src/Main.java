@@ -1,34 +1,29 @@
 import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        int matematik, fizik, kimya, turkce, tarih, muzik;
+        double tutar, kdvliTutar, kdv = 0, kdvTutarı;
 
         Scanner input = new Scanner(System.in);
 
-        System.out.print("Matematik notunuzu giriniz: ");
-        matematik = input.nextInt();
+        System.out.print("Lütfen tutarı giriniz: ");
+        tutar = input.nextDouble();
 
-        System.out.print("Fizik notunuzu giriniz: ");
-        fizik = input.nextInt();
+        if (tutar > 0) {
+            kdv = (tutar >= 0 && tutar < 1000) ? 0.18 : 0.08;
 
-        System.out.print("Kimya notunuzu giriniz: ");
-        kimya = input.nextInt();
+            kdvTutarı = tutar * kdv;
+            kdvliTutar = tutar + kdvTutarı;
 
-        System.out.print("Türkçe notunuzu giriniz: ");
-        turkce = input.nextInt();
 
-        System.out.print("Tarih notunuzu giriniz: ");
-        tarih = input.nextInt();
+            System.out.println("KDV'siz fiyat = " + tutar);
+            System.out.println("KDV oranı = " + kdv);
+            System.out.println("KDV'li fiyat = " + kdvliTutar);
+            System.out.println("KDV tutarı = " + kdvTutarı);
 
-        System.out.print("Müzik notunuzu giriniz: ");
-        muzik = input.nextInt();
+        } else {
+            System.out.println("Geçersiz bir tutar girdiniz.");
+        }
 
-        int toplam = matematik + fizik + kimya + turkce + tarih + muzik;
-        double ortalama = toplam / 6.0;
-
-        System.out.println("Not Ortalamanız: " + ortalama);
-
-        String sonuc = (ortalama>=60.0) ? "Sınıfı Geçtiniz !" : "Sınıfta Kaldınız !";
-        System.out.println(sonuc);
     }
 }

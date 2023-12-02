@@ -15,3 +15,5 @@ Sınıfta kalma durumu:
 Sınıfı geçme durumu:
 
 ![sınıfı_geçme](./images/sınıfı%20geçme.png)
+
+
