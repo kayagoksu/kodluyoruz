@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class NotHesaplama {
     public static void main(String[] args) {
         int matematik, fizik, kimya, turkce, tarih, muzik;
 
@@ -32,3 +32,4 @@ public class Main {
         System.out.println(sonuc);
     }
 }
+
