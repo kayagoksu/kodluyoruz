@@ -1,19 +1,28 @@
-# Not Hesaplayan Program
-Not Ortalaması Hesaplayan Program
-Java ile Matematik, Fizik, Kimya, Türkçe, Tarih, Müzik derslerinin sınav puanlarını kullanıcıdan alan ve ortalamalarını hesaplayıp ekrana bastırılan programı yazın.
+# KDV Tutarı Hesaplayan Program
+Java ile kullanıcıdan alınan para değerinin KDV'li fiyatını ve KDV tutarını hesaplayıp ekrana bastıran programı yazın.
 
-Aynı program içerisinde koşullu ifadeler kullanılarak, eğer kullanıcının ortalaması 60'dan büyük ise ekrana "Sınıfı Geçti" , küçük ise "Sınıfta Kaldı" yazsın.
+(Not : KDV tutarını 18% olarak alın)
 
-Not : If ve Else kullanılmayacak...
+KDV'siz Fiyat = 10;
+
+KDV'li Fiyat = 11.8;
+
+KDV tutarı = 1.8;
+
+Eğer girilen tutar 0 ve 1000 TL arasında ise KDV oranı %18 , tutar 1000 TL'den büyük ise KDV oranını %8 olarak KDV tutarı hesaplayan programı yazınız.
 
 ## Çözüm
 
-Sınıfta kalma durumu:
+Girilen tutar 0 ve 1000 TL arasında ise:
 
-![sınıfta_kalma](./images/sınıfta%20kalma.png)
+![0-1000TL_arası](./images/0-1000%20TL%20arası.png)
 
-Sınıfı geçme durumu:
+Girilen tutar 1000 TL'den büyük ise:
 
-![sınıfı_geçme](./images/sınıfı%20geçme.png)
+![1000TL'den_büyük](./images/1000%20TL'den%20büyük.png)
+
+Girilen tutar geçersiz ise:
+
+![geçersiz_tutar](./images/Geçersiz%20tutar.png)
 
 
