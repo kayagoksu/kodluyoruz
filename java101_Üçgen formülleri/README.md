@@ -1,28 +1,18 @@
-# KDV Tutarı Hesaplayan Program
-Java ile kullanıcıdan alınan para değerinin KDV'li fiyatını ve KDV tutarını hesaplayıp ekrana bastıran programı yazın.
+# Üçgen formüllerini kullanan program
+Java ile kullanıcıdan dik kenarlarının uzunluğunu alan ve hipotenüsü hesaplayan programı yazın.
 
-(Not : KDV tutarını 18% olarak alın)
+Üç kenar uzunluğunu kullanıcıdan aldığınız üçgenin alanını hesaplayan programı yazınız.
 
-KDV'siz Fiyat = 10;
+Formül
 
-KDV'li Fiyat = 11.8;
+Üçgenin çevresi = 2𝑢
 
-KDV tutarı = 1.8;
+𝑢 = (a+b+c) / 2
 
-Eğer girilen tutar 0 ve 1000 TL arasında ise KDV oranı %18 , tutar 1000 TL'den büyük ise KDV oranını %8 olarak KDV tutarı hesaplayan programı yazınız.
+Alan * Alan = 𝑢 * (𝑢 − 𝑎)* (𝑢 − 𝑏) * (𝑢 − 𝑐)
 
 ## Çözüm
 
-Girilen tutar 0 ve 1000 TL arasında ise:
-
-![0-1000TL_arası](./images/0-1000%20TL%20arası.png)
-
-Girilen tutar 1000 TL'den büyük ise:
-
-![1000TL'den_büyük](./images/1000%20TL'den%20büyük.png)
-
-Girilen tutar geçersiz ise:
-
-![geçersiz_tutar](./images/Geçersiz%20tutar.png)
+![üçgen_formülleri](./images/üçgen%20formülleri.png)
 
 
