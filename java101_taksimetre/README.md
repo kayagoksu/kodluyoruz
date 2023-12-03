@@ -1,17 +1,16 @@
-# Not Hesaplayan Program
-Not Ortalaması Hesaplayan Program
-Java ile Matematik, Fizik, Kimya, Türkçe, Tarih, Müzik derslerinin sınav puanlarını kullanıcıdan alan ve ortalamalarını hesaplayıp ekrana bastırılan programı yazın.
+# Taksimetre Programı
+Java ile gidilen mesafeye (KM) göre taksimetre tutarını ekrana yazdıran programı yazın.
 
-Aynı program içerisinde koşullu ifadeler kullanılarak, eğer kullanıcının ortalaması 60'dan büyük ise ekrana "Sınıfı Geçti" , küçük ise "Sınıfta Kaldı" yazsın.
-
-Not : If ve Else kullanılmayacak...
+Taksimetre KM başına 2.20 TL tutmaktadır.
+Minimum ödenecek tutar 20 TL'dir. 20 TL altında ki ücretlerde yine 20 TL alınacaktır.
+Taksimetre açılış ücreti 10 TL'dir.
 
 ## Çözüm
 
-Sınıfta kalma durumu:
+Toplam tutar 20 TL altında ise:
 
-![sınıfta_kalma](./images/sınıfta%20kalma.png)
+![20tlaltı](./images/20%20tl%20altı.png)
 
-Sınıfı geçme durumu:
+Toplam tutar 20 TL altında değil ise:
 
-![sınıfı_geçme](./images/sınıfı%20geçme.png)
+![20tlüstü](./images/20%20tl%20üstü.png)
