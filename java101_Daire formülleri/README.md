@@ -13,10 +13,4 @@ Formül : (𝜋 * (r*r) * 𝛼) / 360
 
 ## Çözüm
 
-Sınıfta kalma durumu:
-
-![sınıfta_kalma](./images/sınıfta%20kalma.png)
-
-Sınıfı geçme durumu:
-
-![sınıfı_geçme](./images/sınıfı%20geçme.png)
+![daire_formülleri](./images/daire%20formülleri.png)
