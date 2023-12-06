@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/java101_Daire formülleri/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java101_KDV hesaplama/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java101_manav kasa programı/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java101_not-ortalaması/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java101_taksimetre/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java101_vücut kitle endeksi/src" isTestSource="false" />
