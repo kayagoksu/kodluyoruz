@@ -1,17 +1,29 @@
-# Not Hesaplayan Program
-Not Ortalaması Hesaplayan Program
-Java ile Matematik, Fizik, Kimya, Türkçe, Tarih, Müzik derslerinin sınav puanlarını kullanıcıdan alan ve ortalamalarını hesaplayıp ekrana bastırılan programı yazın.
+# Hesap Makinesi Programı
 
-Aynı program içerisinde koşullu ifadeler kullanılarak, eğer kullanıcının ortalaması 60'dan büyük ise ekrana "Sınıfı Geçti" , küçük ise "Sınıfta Kaldı" yazsın.
-
-Not : If ve Else kullanılmayacak...
+Switch-Case yapısı kullanılarak hesap makinesi programı yapıldı.
 
 ## Çözüm
 
-Sınıfta kalma durumu:
+Toplama:
 
-![sınıfta_kalma](./images/sınıfta%20kalma.png)
+![toplama](./images/toplama.png)
 
-Sınıfı geçme durumu:
+Çıkarma:
 
-![sınıfı_geçme](./images/sınıfı%20geçme.png)
+![çıkarma](./images/çıkarma.png)
+
+Çarpma:
+
+![çarpma](./images/çarpma.png)
+
+Bölme:
+
+![bölme](./images/bölme2.png)
+
+0'a Bölme:
+
+![bölme2](./images/bölme1.png)
+
+Geçersiz Seçim:
+
+![geçersiz](./images/geçersiz_seçim.png)
