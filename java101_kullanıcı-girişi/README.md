@@ -3,3 +3,22 @@ Eğer şifre yanlış ise kullanıcıya şifresini sıfırlayıp sıfırlamayaca
 
 ## Çözüm
 
+Başarılı Giriş:
+
+![basarili](./images/başarılı%20giriş.png)
+
+Kullanıcı adı yanlış:
+
+![yanlis_kullanici](./images/kullanıcı%20adı%20yanlış.png)
+
+Yeni şifre oluşturulamadı:
+
+![sifre_olusmadi](./images/yeni%20şifre%20oluşturulamadı.png)
+
+Yeni şifre oluşturuldu:
+
+![sifre_olustu](./images/yeni%20şifre%20oluşturuldu.png)
+
+Şifre sıfırlanmadı:
+
+![sifre_sifirlnmadi](./images/şifre%20sıfırlanmadı.png)
