@@ -13,6 +13,7 @@
       <sourceFolder url="file://$MODULE_DIR$/java101_hava-sıcaklığına-göre-etkinlik/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java101_hesap-makinesi/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java101_kullanıcı-girişi/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java101_sayı-sıralama/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java101_sınıfı geçme/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
