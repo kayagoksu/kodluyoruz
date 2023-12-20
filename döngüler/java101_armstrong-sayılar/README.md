@@ -15,9 +15,15 @@ N haneli bir sayının basamaklarının n’inci üstlerinin toplamı, sayının
 
 ## Çözüm
 
+Armstrong Sayısı:
+
 ![armstrong](images/armstrong_sayısı.png)
 
+Armstrong Sayısı değil:
+
 ![armstrongdegil](images/armstrong_degil.png)
+
+Basamak Sayıları Toplamı:
 
 ![bastoplamı](images/basamak_toplamı.png)
 
