@@ -25,6 +25,7 @@
       <sourceFolder url="file://$MODULE_DIR$/java101_yolculuk-ücreti-hesaplama/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java101_çift-sayıları-bulma/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java101_çin-zodyağı-hesaplama/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/döngüler/java101_harmonik-sayılar/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
