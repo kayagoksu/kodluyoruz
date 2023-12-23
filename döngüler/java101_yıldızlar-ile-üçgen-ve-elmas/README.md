@@ -2,8 +2,6 @@
 
 Java'da döngüler kullanılarak yıldızlar ile üçgen ve elmas yapıyoruz.
 
-![img.png](img.png)
-
 ## Çözüm
 
 Üçgen:
