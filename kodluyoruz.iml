@@ -31,6 +31,7 @@
       <sourceFolder url="file://$MODULE_DIR$/döngüler/java101_ebob-ekok/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/döngüler/java101_min-max-bulma/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/döngüler/java101_mükemmel-sayı-bulma/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/döngüler/java101_yıldızlar-ile-ters-üçgen/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
