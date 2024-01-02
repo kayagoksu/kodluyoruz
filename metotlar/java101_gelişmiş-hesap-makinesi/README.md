@@ -1,34 +1,31 @@
-# Recursive ile Fibonacci Serisi Bulan Program
+# Gelişmiş Hesap Makinesi
 
-Java'da recursive metotlar ile fibonacci serisi bulan program yapıyoruz.
+Gelişmiş Hesap Makinesi
+Java ile kullanıcın seçtiği işlemleri yapan hesap makinesi yapıyoruz.
 
-### Fibonacci Serisi Nedir ?
+Hesap makinesinin fonksiyonları :
 
-Fibonacci serisi, her sayının kendinden önceki ile toplanması sonucu oluşan bir sayı dizisidir. Bu şekilde devam eden bu dizide sayılar birbirleriyle oranlandığında altın oran ortaya çıkar, yani bir sayı kendisinden önceki sayıya bölündüğünde altın orana gittikçe yaklaşan bir dizi elde edilir.
 
-Fibonacci dizisi, 0'dan başlar ve sonsuza kadar. Her rakam, bir önceki rakamla toplanır. Elde edilen sonuç rakamın sağ tarafına yazılır. Fibonacci dizisinin ilk on sayısı şu şekildedir:
-
-9 Elemanlı Fibonacci Serisi : 0 1 1 2 3 5 8 13 21 34
-
+```java
+1- Toplama İşlemi
+2- Çıkarma İşlemi
+3- Çarpma İşlemi
+4- Bölme işlemi
+5- Üslü Sayı Hesaplama
+6- Faktoriyel Hesaplama
+7- Mod Alma
+8- Dikdörtgen Alan ve Çevre Hesabı
 ```
- 0 + 1 = 1
-
- 1 + 1 = 2
-
- 1 + 2 = 3
-
- 2 + 3 = 5
-
- 3 + 5 = 8
-
- 5 + 8 = 13
-
- 13 + 8 = 21
-
- 21 + 13 = 34
-```
+Aynı projeye mod almak ve dikdörtgen alan çevre hesabını yapan metotları yazıp menüde işlevsel hale getiriniz.
 
 ## Çözüm
 
+Mod alma:
+
+![modulus](images/modulus.png)
+
+Dikdörtgen alan ve çevre hesabı:
+
+![rectangle](images/rectangle.png)
 
 
