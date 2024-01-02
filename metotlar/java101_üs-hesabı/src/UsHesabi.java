@@ -3,17 +3,11 @@ import java.util.Scanner;
 public class UsHesabi {
 
     static int us(int base, int pow) {
-        int result = 1;
+
         if (pow == 0) {
             return 1;
         }
-        while (pow > 0) {
-            result *= base;
-            pow--;
-            us(base, pow);
-        }
-
-        return result;
+        return base * us(base, pow - 1);
     }
 
     public static void main(String[] args) {
