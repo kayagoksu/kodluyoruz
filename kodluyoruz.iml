@@ -37,6 +37,7 @@
       <sourceFolder url="file://$MODULE_DIR$/metotlar/java101_fibonacci-sequence/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/metotlar/java101_gelişmiş-hesap-makinesi/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/metotlar/java101_palindrom-sayılar/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/metotlar/java101_üs-hesabı/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
