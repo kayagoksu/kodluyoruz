@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class FibonacciSequence {
 
     static int fibonacci(int number) {
-        int res;
+        
         if (number == 1 || number == 2) {
             return 1;
         }
