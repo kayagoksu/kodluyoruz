@@ -8,19 +8,13 @@ Senaryo:
 ```
 Sayı Giriniz : 22
 22 sayısı ASAL değildir !
-```
 
-```
 Sayı Giriniz : 2
 2 sayısı ASALDIR !
-```
 
-```
 Sayı Giriniz : 39
 39 sayısı ASAL değildir !
-```
 
-```
 Sayı Giriniz : 17
 17 sayısı ASALDIR !
 ```
@@ -28,3 +22,9 @@ Sayı Giriniz : 17
 ## Çözüm
 
 ![1](images/1.png)
+
+![2](images/2.png)
+
+![3](images/3.png)
+
+![4](images/4.png)

@@ -2,28 +2,32 @@ import java.util.Scanner;
 
 public class AsalSayiBulma {
 
-    static int asalSayi(int number, int i, int count) {
-        if (i == number+1) {
-            return count;
+    static boolean asalSayi(int number, int i) {
+        if (number <= 1) {
+            return false;
+        } else if (number == 2) {
+            return true;
+        } else if (number % i == 0) {
+            return false;
+        } else if (i > number / 2) {
+            return true;
+        } else {
+            return asalSayi(number, i + 1);
         }
-        if (number % i == 0) {
-            count++;
-        }
-        return asalSayi(number, i+1, count);
     }
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Sayı Giriniz : ");
         int number = input.nextInt();
-        int count = 0, i = 1;
-        int result = asalSayi(number, i, count);
+        int i = 2;
 
-        if (result > 2) {
-            System.out.println(number + " sayısı ASAL değildir !");
-        } else {
+        if (asalSayi(number, i)) {
             System.out.println(number + " sayısı ASALDIR !");
+        } else {
+            System.out.println(number + " sayısı ASAL değildir !");
         }
+
 
     }
 }
