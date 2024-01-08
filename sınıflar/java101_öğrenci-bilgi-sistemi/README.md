@@ -1,4 +1,4 @@
-# Recursive Metotlar ile Üslü Sayı Hesaplama
+# Öğrenci Bilgi Sistemi
 
 Java dilinde, taban ve üs değerleri kullanıcıdan alınan üs alma işlemini "Recursive" metot kullanarak yapan programı yazınız.
 
