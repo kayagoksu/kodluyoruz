@@ -42,6 +42,7 @@
       <sourceFolder url="file://$MODULE_DIR$/metotlar/java101_desene-göre-metot/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/sınıflar/java101_boks-oyunu/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/sınıflar/java101_öğrenci-bilgi-sistemi/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sınıflar/java101_maaş-hesaplayıcı/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
