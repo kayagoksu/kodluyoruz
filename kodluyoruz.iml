@@ -47,6 +47,7 @@
       <sourceFolder url="file://$MODULE_DIR$/diziler/java101_eleman-sıralama/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/diziler/java101_elemanların-frekansı/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/diziler/java101_harf-yazdırma/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/diziler/java101_matris-transpozunu-bulma/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/diziler/java101_min-max-bulma/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/diziler/java101_tekrar-eden-sayı-bulma/src" isTestSource="false" />
     </content>
